@@ -2,14 +2,14 @@ module.exports = {
   pathPrefix: '/my-outdoor-workouts', // Change to `/workouts_page` when running on GitHub pages
   siteMetadata: {
     siteTitle: 'Workouts Map',
-    siteUrl: 'https://ben29.xyz',
+    siteUrl: 'https://www.strava.com/athletes/108302326',
     logo: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/108302326/25575907/4/large.jpg',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://ben29.xyz',
+        name: 'STRAVA',
+        url: 'https://www.strava.com/athletes/108302326',
       },
       {
         name: 'About',
