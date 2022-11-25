@@ -8,12 +8,12 @@ module.exports = {
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
-        name: 'STRAVA',
+        name: 'my STRAVA',
         url: 'https://www.strava.com/athletes/108302326',
       },
       {
         name: 'About',
-        url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+        url: 'https://github.com/kevinwky2022/my-outdoor-workouts/blob/master/README-CN.md',
       },
     ],
   },
