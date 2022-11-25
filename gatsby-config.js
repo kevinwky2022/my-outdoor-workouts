@@ -12,7 +12,6 @@ module.exports = {
         url: 'https://www.strava.com/athletes/108302326',
       },
       {
-        url: 'https://www.strava.com/athletes/108302326/activity-summary/b4a6fe37315f2892abaad1342a8462c1d0544020',
         //name: 'About',
         //url: 'https://github.com/kevinwky2022/my-outdoor-workouts/blob/master/README-CN.md',
       },
