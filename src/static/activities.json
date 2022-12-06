@@ -2428,5 +2428,20 @@
 "average_speed": 2.7924158728924375,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1670277627000,
+"name": "\u6210\u90fd\u5e02 - E60min 4ST",
+"distance": 11785.444604482565,
+"moving_time": "1:09:40",
+"type": "Run",
+"start_date": "2022-12-05 22:00:27",
+"start_date_local": "2022-12-06 06:00:27",
+"location_country": "\u540c\u745e\u793e\u533a, \u8521\u6865\u8857\u9053, \u9752\u7f8a\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610045, \u4e2d\u56fd",
+"summary_polyline": "iyezDygnyRZZ`@zCMjAc@ZwDIkBz@}Lzy@uGbQnExBcBzCcBa@eDeCgB?kI`KqCt@aNpAoBlBgAhD_B~@}AOmCwDsCiAmCNyE~BuGFcCnBiD|JiBrAmCCgCkAeHyEiBiDmD_BeIt@{GWsIfCiBHkCeAoGwG{B`@mAjC|AqChB[xG`HhC`AnAEnJqCzGPtHq@lDxAnBlD~GrEdDvArABdCcAxDsKbCmBnGAfFeCjCMtBz@vC|DtBVhAs@pAsD|AiB~QwBjBwA`G_ItBDrCzBbBf@hB_DoEuBjGoPlINpBiNpBuAn@wAzAuf@u@[{D\\_BfKtAgKtCu@zCIc@}DHiB|BE",
+"average_heartrate": 147.0,
+"average_speed": 2.8194843551393696,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
