@@ -2443,5 +2443,20 @@
 "average_speed": 2.8194843551393696,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1670450602000,
+"name": "\u6210\u90fd\u5e02 - E10 T12*3 E10 sub400",
+"distance": 10325.816265418785,
+"moving_time": "1:01:13",
+"type": "Run",
+"start_date": "2022-12-07 22:03:22",
+"start_date_local": "2022-12-08 06:03:22",
+"location_country": "\u540c\u745e\u793e\u533a, \u8521\u6865\u8857\u9053, \u9752\u7f8a\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610045, \u4e2d\u56fd",
+"summary_polyline": "sefzDsmmyRqI~j@iGlPjE~BiBxCgBi@yCaCsBDaG~HaBlAsRdCuAjBeAfDqAr@qBYqC}D_D}@}BVoEzByFEwCpBbDqBpFH|DwBjCa@vCz@~CfEzBTnAeAz@yCfBuBnR_CbBwA|DgGxAw@xARlE~CpDd@wDk@eEyC}AQkAf@wE`HaBnAiR`CeBjBaAdDgAt@yBOgCyDyDiAaC`@mDrBwG?gCbB|CkBlFHpE{BhCW~ChAnCxDrBNjA{@bAcDnAaBvAq@nMw@bBk@lIgKnBAfDdC`Bb@dBsCmEcChGoPnIVnBmN`BiAt@yAlBmf@r@qB",
+"average_heartrate": 158.0,
+"average_speed": 2.811275868613881,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
