@@ -2998,5 +2998,20 @@
 "average_speed": 2.5308842214900795,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1676699340000,
+"name": "Belgrade - \u5851\u8eab\u5851\u5f62\u5f3a\u531650\u5206\u949f",
+"distance": 10913.697883535253,
+"moving_time": "1:19:56",
+"type": "Run",
+"start_date": "2023-02-18 05:49:00",
+"start_date_local": "2023-02-18 06:49:00",
+"location_country": "\u041a\u0440\u0430\u0443\u043d \u041f\u043b\u0430\u0437\u0430 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, 10, \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0430 \u041f\u043e\u043f\u043e\u0432\u0438\u045b\u0430, \u041c\u0417 \u0421\u0442\u0430\u0440\u043e \u0421\u0430\u0458\u043c\u0438\u0448\u0442\u0435, \u0411\u0435\u043e\u0433\u0440\u0430\u0434 (\u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434), \u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+"summary_polyline": "wynpGkdv{B{Ac@lAiFiGcFSmBT{@qAqCkBkB`AcL~Ce|@?aIpF`FiA`OaVmCaOXoJlB_AfA_IdDyHbF{@[_GzDcFlAY_@_Bv@uBCkAt@_A}AoABaG}DmAsAOmBkADsF_M_DsO_@_VpAea@hA{NiA~NwAbd@^tQxBnMrGvO`@^v@MRpBrCnCrDrBnAA`A~Ab@Bf@y@`CDn@s@z@ZlGaBxEkDfAZ~G{EpIsDl@cApOiDRmG~@be@i@VC}@fAg@RuAbBGxLdA~JfD_F|S_AlAu@bKxCrC\\pBUp@\\v@Gv@vF|Ei@xEL|@",
+"average_heartrate": 139.0,
+"average_speed": 2.275583378551971,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
