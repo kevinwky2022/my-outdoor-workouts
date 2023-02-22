@@ -3043,5 +3043,35 @@
 "average_speed": 2.7369433576952247,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1676958050000,
+"name": "Belgrade - \u5851\u8eab\u5851\u5f62\u5f3a\u531650\u5206\u949f",
+"distance": 12410.316238717807,
+"moving_time": "1:25:36",
+"type": "Run",
+"start_date": "2023-02-21 05:40:50",
+"start_date_local": "2023-02-21 06:40:50",
+"location_country": "\u041a\u0440\u0430\u0443\u043d \u041f\u043b\u0430\u0437\u0430 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, 10, \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0430 \u041f\u043e\u043f\u043e\u0432\u0438\u045b\u0430, \u041c\u0417 \u0421\u0442\u0430\u0440\u043e \u0421\u0430\u0458\u043c\u0438\u0448\u0442\u0435, \u0411\u0435\u043e\u0433\u0440\u0430\u0434 (\u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434), \u0413\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+"summary_polyline": "i{npGwcv{BcAiAj@uB]]`@iBcM}KkAZyDtE{Ad@mAQI}I{C]A{@qE_H{AS}EhAiDQ}@cAyJtBqCfBs@~BF|CvBzPmA|Go@fU}@~HwBpEqD~LgEbFoAvCw@|EkA~BgDzBcD_Bb@yA_Ff@eN`GmG|A_^hGmA_@kW|EiNxD{FnCwEt@pF_AlIyDhIuBzS_EjDg@dAZtZaFfN{DtJmElHo@vBcAnEkFxBkDLcAv@ThBgCvDmMpBiE`AaIl@mTpAoH_C{Q?yBb@sBpCuBzKgCfFcH|EpAxB[d@gBlAsAEmEoAuAkB^iApAYpC_Bh@]zAHfC_DrG`CHbEmAlBl@tCbGhBMN|AdAVAjITR`Dg@jCsBt@_Bz@QdN~Lg@tEL~@",
+"average_heartrate": 144.0,
+"average_speed": 2.416338831526053,
+"source": "Garmin Connect",
+"streak": 4
+},
+{
+"run_id": 1676971715000,
+"name": "Cukarica \u6b65\u884c",
+"distance": 1854.050903089674,
+"moving_time": "0:27:31",
+"type": "Hike",
+"start_date": "2023-02-21 09:28:35",
+"start_date_local": "2023-02-21 10:28:35",
+"location_country": "\u0411\u0430\u043d\u043e\u0432\u043e \u0431\u0440\u0434\u043e, \u0411\u0435\u043e\u0433\u0440\u0430\u0434 (\u0427\u0443\u043a\u0430\u0440\u0438\u0446\u0430), \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+"summary_polyline": "k`kpGseq{Bl@jDzAi@t@kCZFPnGb@J[lATvD`BxPz@~Hp@pA~AdLh@vIqEcAIo@kACYmQlCuBwAgMLy@",
+"average_heartrate": 106.0,
+"average_speed": 1.1229866160446238,
+"source": "Garmin Connect",
+"streak": 4
 }
 ]
