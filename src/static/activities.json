@@ -3073,5 +3073,20 @@
 "average_speed": 1.1229866160446238,
 "source": "Garmin Connect",
 "streak": 4
+},
+{
+"run_id": 1677261345000,
+"name": "Abidjan \u8dd1\u6b65",
+"distance": 3312.809696221809,
+"moving_time": "0:18:39",
+"type": "Run",
+"start_date": "2023-02-24 17:55:45",
+"start_date_local": "2023-02-24 17:55:45",
+"location_country": "Business School, Rue L155, Deux-Plateaux, Deux Plateaux, Cocody, Abidjan, C\u00f4te d\u2019Ivoire",
+"summary_polyline": "yhz_@j{iWxD@~RvAoCe@_wAkIdaAnG",
+"average_heartrate": 144.0,
+"average_speed": 2.960509111905102,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
