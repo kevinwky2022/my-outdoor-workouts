@@ -3088,5 +3088,20 @@
 "average_speed": 2.960509111905102,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1677390076000,
+"name": "Dar es Salaam \u8dd1\u6b65",
+"distance": 10094.578940758074,
+"moving_time": "1:08:46",
+"type": "Run",
+"start_date": "2023-02-26 05:41:16",
+"start_date_local": "2023-02-26 08:41:16",
+"location_country": "Wakala wa ndege za serikali (TGFA), 17, Sokoine Drive, Kivukoni, Ilala Municipal, Dar es Salaam, Coastal Zone, 11101, Tanzania",
+"summary_polyline": "lash@}ixnFan@gu@aDEeEzBsBN_Ac@wCsDDg@|DyCtK_DoKfDiLpKqA|Bc@FuBhEg@LkMdVcIpKcADcGmBuCH{VbKss@tM~r@oMtWiKvDCvE~ArAIdKuN`Rg]pGyEhDfDbAV~AQdDmBbDOf@Xzm@ju@",
+"average_heartrate": 156.0,
+"average_speed": 2.4465775425976912,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
