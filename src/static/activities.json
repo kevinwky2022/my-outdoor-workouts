@@ -3103,5 +3103,20 @@
 "average_speed": 2.4465775425976912,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1677563911000,
+"name": "Dar es Salaam Morning Run",
+"distance": 10200.98697279394,
+"moving_time": "1:09:01",
+"type": "Run",
+"start_date": "2023-02-28 05:58:31",
+"start_date_local": "2023-02-28 08:58:31",
+"location_country": "Florida Pub, Sokoine Drive, Kivukoni, Ilala Municipal, Dar es Salaam, Coastal Zone, 11101, Tanzania",
+"summary_polyline": "bash@whxnFNg@eOiPa^yc@aFJsBzAmBPiBy@oCsCfFqE~EiAZ{BJh@bB{@QPRdAgKnCwLnKeSv^}J`NeB`@}DyAqD?uXrK{q@`M`q@}LrY}KvD@|DbBZc@hAOdKwNpQk\\bHoFjCrCpAh@zBWfDcBtDBzRfVdArBxWjZ",
+"average_heartrate": 150.0,
+"average_speed": 2.4634114882380924,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
