@@ -3118,5 +3118,35 @@
 "average_speed": 2.4634114882380924,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1677641413000,
+"name": "Dar es Salaam - \u5851\u8eab\u5851\u5f62\u5f3a\u531650\u5206\u949f",
+"distance": 7141.093553690193,
+"moving_time": "0:52:38",
+"type": "Run",
+"start_date": "2023-03-01 03:30:13",
+"start_date_local": "2023-03-01 06:30:13",
+"location_country": "Nyerere Square, Sokoine Drive, Kivukoni, Ilala Municipal, Dar es Salaam, Coastal Zone, 11101, Tanzania",
+"summary_polyline": "|_sh@qkxnFyQwSi@sAkXg\\qCKmErBiCXiEgEwFlFgJnQm@OiGnLcJxLqAJqFgBeCBaZ`Liu@zM`v@cNxWmKvBSpBPjKkAhG{I~EeJx@CfA{B",
+"average_heartrate": 135.0,
+"average_speed": 2.2612709163046842,
+"source": "Garmin Connect",
+"streak": 2
+},
+{
+"run_id": 1677645167000,
+"name": "Dar es Salaam \u6b65\u884c",
+"distance": 1468.1592752724832,
+"moving_time": "0:19:12",
+"type": "Hike",
+"start_date": "2023-03-01 04:32:47",
+"start_date_local": "2023-03-01 07:32:47",
+"location_country": "Luthuli Street, Kivukoni, Ilala Municipal, Dar es Salaam, Coastal Zone, 11101, Tanzania",
+"summary_polyline": "dkqh@k_znFp@[hDCvUfX~KjNX|@xI|JqA~@",
+"average_heartrate": 105.0,
+"average_speed": 1.2744438153406972,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
