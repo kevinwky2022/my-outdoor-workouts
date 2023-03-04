@@ -3178,5 +3178,20 @@
 "average_speed": 1.3070429037761102,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1677851387000,
+"name": "Harare \u8dd1\u6b65",
+"distance": 9817.711120460799,
+"moving_time": "1:02:30",
+"type": "Run",
+"start_date": "2023-03-03 13:49:47",
+"start_date_local": "2023-03-03 15:49:47",
+"location_country": "Cresta Lodge, Robert Mugabe Road, Harare, Harare Province, Zimbabwe",
+"summary_polyline": "t~ykB}iy|DuAnBq@q@?gAhDwB{@iA|@y@vCn@^jAQbDe@TKp@uAp@gAu@l@a@Q}@wBnBe@s@?}@eAu@Gw@lBUBe@a@YeR|I`\\aPjAfD?nK?kKaAmDiHzDZb@~BuAvC|@D~D}@jB_Bp@}Cq@[eBsA_BdBYrCgCrCh@j@hAUxCw@vAyAp@_Dm@a@iBsA{AfB]vCgCxCn@b@z@SvCw@|A{Av@_Ds@_@cBuA_BfBYxCeCvCx@\\fAOdCy@zAqAp@gDs@]_BsAeBhBUfC}BnDn@VxA[hCk@dA{Ar@eDu@W_BwAgBhBSlC_CnC^r@hAQ`Dy@pAwAr@gDu@[}AoAiB~AM|CgCvCr@ZbBWbCeCxBgDq@YeBqAeBbBQtCaCxCl@Zz@OfDs@jA}Ar@}Cq@_@cBoAcB~AUtCeCzCp@\\jAS|Cm@fAyAn@cDo@[_BqAiBfBUjCaCbC^t@jAUnDm@bAsAn@_@WCwA",
+"average_heartrate": 149.0,
+"average_speed": 2.6180562987895466,
+"source": "Garmin Connect",
+"streak": 4
 }
 ]
