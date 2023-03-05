@@ -3193,5 +3193,20 @@
 "average_speed": 2.6180562987895466,
 "source": "Garmin Connect",
 "streak": 4
+},
+{
+"run_id": 1677923029000,
+"name": "Hwange - \u5851\u8eab\u5851\u5f62\u5f3a\u531650\u5206\u949f",
+"distance": 4917.595141188961,
+"moving_time": "0:29:53",
+"type": "Run",
+"start_date": "2023-03-04 09:43:49",
+"start_date_local": "2023-03-04 11:43:49",
+"location_country": "Victoria Falls, Victoria Falls Municipality, Hwange, Matabeleland North, Zimbabwe",
+"summary_polyline": "~cmlBors|ChDcAXs@{HVXjAlBBrCw@iAiEkAMOe@qIdDmCjBvD~F_EmFzAoBfNqF_IaWeB{Cz@c@rOdh@oCoHg@QkMvEwOzMdO}M|McFoAdArAV|@jEq@b@_CR",
+"average_heartrate": 146.0,
+"average_speed": 2.742663213156141,
+"source": "Garmin Connect",
+"streak": 5
 }
 ]
