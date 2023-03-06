@@ -3208,5 +3208,35 @@
 "average_speed": 2.742663213156141,
 "source": "Garmin Connect",
 "streak": 5
+},
+{
+"run_id": 1677990502000,
+"name": "Hwange - \u5851\u8eab\u5851\u5f62\u5f3a\u531650\u5206\u949f",
+"distance": 10016.344526274794,
+"moving_time": "0:56:51",
+"type": "Run",
+"start_date": "2023-03-05 04:28:22",
+"start_date_local": "2023-03-05 06:28:22",
+"location_country": "Cresta Sprayview Hotel, Reynard Road, Victoria Falls, Victoria Falls Municipality, Hwange, Matabeleland North, Zimbabwe",
+"summary_polyline": "nbmlB}ts|Cp@z@bCo@{@cEsAc@nBw@~DhK|DxGzFxFfGlDzdB`g@vLpBdLInJgBvx@u`@_x@|_@oJnBqLLiJoAwhBgh@oHuEaFcF{BsDuEkMkEhAnA_@dBTz@fFgA^iCF",
+"average_heartrate": 149.0,
+"average_speed": 2.9364832970609185,
+"source": "Garmin Connect",
+"streak": 6
+},
+{
+"run_id": 1677997047000,
+"name": "Victoria Falls",
+"distance": 3476.7458498429464,
+"moving_time": "1:21:28",
+"type": "Hike",
+"start_date": "2023-03-05 06:17:27",
+"start_date_local": "2023-03-05 08:17:27",
+"location_country": "Victoria Falls Rainforest, Zambezi Drive, Victoria Falls, Victoria Falls Municipality, Hwange, Matabeleland North, Zimbabwe",
+"summary_polyline": "zzklBgfw|CkDDOa@F^aBDm@q@Z}@eFd@tDa@r@~Aj@RAi@OR^Nj@]DmAt@_@Au@ZV^WNiBw@A~@Yi@k@LgBUc@^_@Ki@f@Y~@aC`@Kl@_CSi@e@Ap@SMa@]?XEp@yBCkA]?d@UW_A\\BKgAhB{FCW_@Bz@e@MmAnB_FfAg@pBHr@c@s@b@_DBqA{CpA~CgClFLnA_C|HDzBk@\\\\AFfAcAbC`@XFpAk@vBoCrDRT]jBn@rBo@xC~D~AQ\\K_Ad@q@XRUUKP",
+"average_heartrate": 95.0,
+"average_speed": 0.7112818841740889,
+"source": "Garmin Connect",
+"streak": 6
 }
 ]
