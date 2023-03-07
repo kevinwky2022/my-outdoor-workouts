@@ -3238,5 +3238,20 @@
 "average_speed": 0.7112818841740889,
 "source": "Garmin Connect",
 "streak": 6
+},
+{
+"run_id": 1678076266000,
+"name": "Victoria Falls",
+"distance": 5127.557910247362,
+"moving_time": "0:38:00",
+"type": "Run",
+"start_date": "2023-03-06 04:17:46",
+"start_date_local": "2023-03-06 06:17:46",
+"location_country": "Cresta Sprayview Hotel, Reynard Road, Victoria Falls, Victoria Falls Municipality, Hwange, Matabeleland North, Zimbabwe",
+"summary_polyline": "zbmlBots|CxCgAm@mCcAAKW|AgAKaB{Qmk@_GyWiCuEuJ_E}AgD@kB`@yArImN_BnDmF`Hw@dD|@~D~AlAjDlAt@JCStA`A`BhBx@vBzCnP|HrX|FtPWq@Wd@D|EvDhC{A`BhAPn@rCmCv@",
+"average_heartrate": 135.0,
+"average_speed": 2.248928908003229,
+"source": "Garmin Connect",
+"streak": 7
 }
 ]
