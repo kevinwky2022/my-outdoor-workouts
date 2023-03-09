@@ -3268,5 +3268,20 @@
 "average_speed": 2.527038550534793,
 "source": "Garmin Connect",
 "streak": 8
+},
+{
+"run_id": 1678246605000,
+"name": "Hwange \u8dd1\u6b65",
+"distance": 10317.34874920916,
+"moving_time": "0:58:21",
+"type": "Run",
+"start_date": "2023-03-08 03:36:45",
+"start_date_local": "2023-03-08 05:36:45",
+"location_country": "Hwange, Matabeleland North, Zimbabwe",
+"summary_polyline": "|jgoB}tt`DeBq@_Dz@oDuAjC_AbDoYQ]iB[OeBeC_@m@cA{Em@_@P{@nINnBuAzMjEz@XvBxGx@VOdD}YwBq@OgBkCa@m@cA_Fm@WP_AjIPjBwA|MjE`A\\xBlGv@`@QdDyYyBq@QiBkCc@k@_A{Em@[P}@dIRvA{ApNnEhATrBvGz@\\QbDyY{Bw@MeBgC_@o@cAyEm@]R}@lINtBwAlMjE`A\\zBrGx@\\OdD{YaC}@IaBiC]i@cA}Em@]N_AnIXrA}AnNpEfATtBrGz@`@]`DoY_C{@KcBiC_@g@_A}Eo@]R_AbITnA{AxNpAf@",
+"average_heartrate": 148.0,
+"average_speed": 2.9469719363636564,
+"source": "Garmin Connect",
+"streak": 9
 }
 ]
