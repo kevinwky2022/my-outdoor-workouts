@@ -3283,5 +3283,20 @@
 "average_speed": 2.9469719363636564,
 "source": "Garmin Connect",
 "streak": 9
+},
+{
+"run_id": 1678352634000,
+"name": "Harare \u5f92\u6b65",
+"distance": 2418.3780321716836,
+"moving_time": "0:39:41",
+"type": "Hike",
+"start_date": "2023-03-09 09:03:54",
+"start_date_local": "2023-03-09 11:03:54",
+"location_country": "Hillside Road, Harare, Harare Province, Zimbabwe",
+"summary_polyline": "|szkBs_w|D|@{AzBvAx@Sz@xA`LfIvAgAhFtF|EcDfTv@n@\\qIcA_FPmD]uE~CiFuFsAfAuJyHiAUOm@",
+"average_heartrate": 85.0,
+"average_speed": 1.0156984595429162,
+"source": "Garmin Connect",
+"streak": 10
 }
 ]
