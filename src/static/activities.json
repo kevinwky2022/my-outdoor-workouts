@@ -3733,5 +3733,20 @@
 "average_speed": 2.9028244330071327,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1682033209000,
+"name": "Bel-Air \u8dd1\u6b65",
+"distance": 4974.602543996284,
+"moving_time": "0:30:36",
+"type": "Run",
+"start_date": "2023-04-20 23:26:49",
+"start_date_local": "2023-04-21 07:26:49",
+"location_country": "Barangay Bel-Air Health Office, 250m Exercise Path, Salcedo, Bel-Air, Makati 1st District, Makati, Southern Manila District, Metro Manila, 1227, Philippines",
+"summary_polyline": "mwzwAcgtaVj@[U_APm@WUoAf@AzBzCC~@rB~Cy@pDWVe@oAwF{AsB~@eAlBpBh@xAWfAVtAjBcArAoEaAo@u@bAeB~Cf@`B~AaAzB_H{@g@gEhHXbBjAYvBwFeAw@wCdFdAzFdA~BfIgOsCaBuLkEZhEvAbFrAeBf@~BMoDt@iA|@`AwApE[mEn@eAfAz@b@sAwAMmDnG^~AbAO`@g@vBaH}@i@_AzA",
+"average_heartrate": 143.0,
+"average_speed": 2.709478509801898,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
