@@ -3748,5 +3748,20 @@
 "average_speed": 2.709478509801898,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1682117289000,
+"name": "Bel-Air - \u5851\u8eab\u5851\u5f62\u521d\u7ea75km",
+"distance": 6175.705195116336,
+"moving_time": "0:42:13",
+"type": "Run",
+"start_date": "2023-04-21 22:48:09",
+"start_date_local": "2023-04-22 06:48:09",
+"location_country": "",
+"summary_polyline": "cpzwAkdtaVnHuAgByHy@oA`@o@zBrGjAhG|@dB~@g@hAwC|Ay@|AwFMe@oPcHvApKvCfLbEmFbAe@fA{EQg@oPkHAr@tBzEIjC^~CfBhGfAq@d@qAbCyB`B{FSa@qPoHB~A~AtGl@`FrAbFd@B`AgCvC{CxA{EaQgHMlApBpGh@pFeCvA{Gz@aAcCw@Cp@Wk@w@Lq@_@G}@\\EtBr@Fq@HW|@_DP",
+"average_heartrate": 153.0,
+"average_speed": 2.4380991690155294,
+"source": "Garmin Connect",
+"streak": 3
 }
 ]
