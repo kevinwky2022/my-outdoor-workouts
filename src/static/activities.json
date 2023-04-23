@@ -3763,5 +3763,20 @@
 "average_speed": 2.4380991690155294,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1682203023000,
+"name": "Bel-Air - \u5851\u8eab\u5851\u5f62\u521d\u7ea75km",
+"distance": 10489.029470193424,
+"moving_time": "0:59:32",
+"type": "Run",
+"start_date": "2023-04-22 22:37:03",
+"start_date_local": "2023-04-23 06:37:03",
+"location_country": "One Lafayette Square, 132, Sede\u00f1o Street, Salcedo, Bel-Air, Makati 1st District, Makati, Southern Manila District, Metro Manila, 1227, Philippines",
+"summary_polyline": "mrzwAwctaV`LuBiCuLgAiCpIbB|GvC}@hFyFnHyEmOFyAmAkDjCBhDn@jHpEoAlFmFlHu@kDeAkB}CiOvDd@|KbFeBfGwAbBo@vBqAp@sEgOAqB_AkDdBGvEfAdApArEzBgBzEcFvH}FwUEoAbG~AjIvDcEzIi@dCmAbAwFsSMeEhBlA~GtBtDnBkB|FkDbF{@f@cEcPo@mE@cA\\YbP`IsAnGiBdBo@vBw@h@i@EE{AuFsRE}Aj@OvDdAjJ|EuA|GkA^iC]SmBpA{DcA_AyCbFb@`CcClBmHn@w@cB_InA",
+"average_heartrate": 154.0,
+"average_speed": 2.9364584183072293,
+"source": "Garmin Connect",
+"streak": 4
 }
 ]
