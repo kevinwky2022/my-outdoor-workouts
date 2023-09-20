@@ -5248,5 +5248,20 @@
 "average_speed": 3.1419225089146168,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1695165471000,
+"name": "\u7518\u5b5c\u85cf\u65cf\u81ea\u6cbb\u5dde \u5f92\u6b65",
+"distance": 1426.3960328037754,
+"moving_time": "0:33:43",
+"type": "Hike",
+"start_date": "2023-09-19 23:17:51",
+"start_date_local": "2023-09-20 07:17:51",
+"location_country": "\u5477\u62c9\u9547, \u96c5\u6c5f\u53bf \u0f49\u0f42\u0f0b\u0f46\u0f74\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b, \u7518\u5b5c\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f51\u0f40\u0f62\u0f0b\u0f58\u0f5b\u0f7a\u0f66\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u56db\u5ddd\u7701, \u4e2d\u56fd",
+"summary_polyline": "ssuvD{}pgRbDWl@a@nA^fAOlBoC`GwAiAg@}AN[r@@g@Gv@iAk@iCb@^`C_APk@{@wEn@Uo@Bl@dBa@JY[g@c@Dy@V~A]\\~A}Ax@_CTZf@]h@qA]`@[",
+"average_heartrate": 82.0,
+"average_speed": 0.7050894872979612,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
