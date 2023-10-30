@@ -5623,5 +5623,20 @@
 "average_speed": 2.775395107154187,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1698537221000,
+"name": "\u6210\u90fd\u5e02 - Chengdu International Marathon",
+"distance": 42558.70186014023,
+"moving_time": "3:52:25",
+"type": "Run",
+"start_date": "2023-10-28 23:53:41",
+"start_date_local": "2023-10-29 07:53:41",
+"location_country": "\u4e2d\u73af\u8def\u9752\u7f8a\u5927\u9053\u6bb5, \u91d1\u6c99\u9057\u5740\u793e\u533a, \u91d1\u6c99\u8857\u9053, \u9752\u7f8a\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610091, \u4e2d\u56fd",
+"summary_polyline": "szgzDo~yyRbd@zZtDxApGr@zBGr@uEpBiYBiHvC}GFaEhGou@rJu_AhOq]zRog@pCuLRmFO_Ib@sCnBgE~QeSbBsDd@uCAqWf@iBjD_@bb@]cg@ZaAv@JhEi@x@eGTcAo@{@gnAj@mCvByExUoq@TsB_@eAyEyCkEyEmLmHiCcA}Jw@y@cAvFoQzA_Dns@yoBD~@}F~Py[f|@D|ArI~F|{Axw@rDg@fLeI`DuAbYoGtHwCfF_@nOnC|EtHa@|CEpJ_@^gC@YX@dH~@vGfBnC|JtI|Ep@nMZv@tBTpVSdC^xJVZlCNjRYh@f\\b@p@fl@i@pAdBHdCdAb@xEu@jt@Fd@|AS~QdAn@vs@o@zEs@`OYvu@c@~z@_BfdAw@pDVx[q@nDP|~AyB|CZ~Gc@~MHbQo@|b@QpGMr@IUQyvA`Aim@fAmF@_@a@q_AxAiN?uD_@_Ur@eBdE@vw@cDTyEy@s@\\{AbCeAZqF_@i@}@ZoOnByELeCgAeFFyLeAsHKgH|@mIpBcGZkD}@gF}DuGC{DjCiC~DIpHtDpF~JbLb@",
+"average_heartrate": 170.0,
+"average_speed": 3.051896870572982,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
