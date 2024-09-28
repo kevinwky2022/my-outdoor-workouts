@@ -7531,7 +7531,7 @@
 },
 {
 "run_id": 1717451521000,
-"name": "\u8dd1\u6b65",
+"name": "\u897f\u5b89\u5e02 \u8dd1\u6b65",
 "distance": 20826.837521736943,
 "moving_time": "1:48:07",
 "type": "Run",
@@ -8653,5 +8653,20 @@
 "average_speed": 2.820399040340736,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1727474082000,
+"name": "\u4e09\u4e9a\u5e02 \u8dd1\u6b65",
+"distance": 17525.160568259536,
+"moving_time": "1:42:28",
+"type": "Run",
+"start_date": "2024-09-27 21:54:42",
+"start_date_local": "2024-09-28 05:54:42",
+"location_country": "Sanya Conifer Resort, 189, \u4e09\u4e9a\u6e7e\u8def, \u51e4\u51f0, \u5929\u6daf\u533a, \u4e09\u4e9a\u5e02, \u6d77\u5357\u7701, 572023, \u4e2d\u56fd",
+"summary_polyline": "ejsnBi{|zSZd@bEVbBgFfH{r@bFa[fGw[vHmODqKfCeLbXsu@v`@qv@v^qe@f[y[hMyNXOLXc@~@Ai@n@iA~U_QbFeDtY_L|OwBxC\\d@h@g@B`CD_BLcBsAkAKiQpCwXtKsY~RmDpGmBd@iBbCcAb@y@|AuBxAmZ`[_FjGg@|AcGhGg@fBqDhDeErF_DhHuBpC[|AkFbIw@jDoCdD}ElJy@tF{EfKwBtBo@xC_A~Ak@xDeCxE{DfMeCvF[pAJpCmAdDa@vJoGfLqGl[yFrb@k@`BkFjg@cCdJaGaAUe@T{@",
+"average_heartrate": 153.0,
+"average_speed": 2.8505466116232165,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
