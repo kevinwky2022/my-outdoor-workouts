@@ -7531,7 +7531,7 @@
 },
 {
 "run_id": 1717451521000,
-"name": "\u897f\u5b89\u5e02 \u8dd1\u6b65",
+"name": "\u8dd1\u6b65",
 "distance": 20826.837521736943,
 "moving_time": "1:48:07",
 "type": "Run",
@@ -8998,5 +8998,20 @@
 "average_speed": 2.8369074271179073,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1730757486000,
+"name": "Kuala Lumpur \u8dd1\u6b65",
+"distance": 10887.626821446276,
+"moving_time": "1:13:45",
+"type": "Run",
+"start_date": "2024-11-04 21:58:06",
+"start_date_local": "2024-11-05 05:58:06",
+"location_country": "Jalan P. Ramlee, Bukit Bintang, Kuala Lumpur, 50250, Malaysia",
+"summary_polyline": "k~fRgvwkReCsDwFyD}AkBJs@{CqC}BcAuB@aAg@m@wAJ_IlHyA^Z?`Dl@t@dGPtAa@pBqEwA{BXcIqAwEmBd@oA~BeBrEQjCtCdDb@fCb@`@fBZlBcDLaAmAsBLyIaAsDg@KoAl@uChGm@~DNt@dCdCl@xC~Aj@j@QnBiEsAiCRgIc@iAyCtBoBL}@pBU~BXfA`CvBl@vChBj@`@SnBgEuA{BNgJq@qAGoAm@YmAh@sAbC_BdEWlDxCpCl@xCbC^xBoEsAiCNaIc@gAwCnBsBPwAhFRv@pCnCb@lCfC`@|BiEwAiCLeIi@sAoCzBwBX{@vBKdCpCzCd@lCb@b@fBJxBoDBe@sA_CJoIq@_BCiAq@WaA`@_AxAcCnGIxC~CnDkAPc@g@^~Ac@AA\\zABEdA_DOa@w@H}@^OeA}AuB\\cDpAo@dH\\x@zCr@?f@tAKpBZh@d@h@jBpAd@El@rAfBrAr@rAfBt@N[\\rCtCJrD",
+"average_heartrate": 148.0,
+"average_speed": 2.4604806376149777,
+"source": "Garmin Connect",
+"streak": 4
 }
 ]
