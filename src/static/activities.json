@@ -9013,5 +9013,20 @@
 "average_speed": 2.4604806376149777,
 "source": "Garmin Connect",
 "streak": 4
+},
+{
+"run_id": 1730843567000,
+"name": "Kuala Lumpur \u8dd1\u6b65",
+"distance": 11347.471750812136,
+"moving_time": "1:06:34",
+"type": "Run",
+"start_date": "2024-11-05 21:52:47",
+"start_date_local": "2024-11-06 05:52:47",
+"location_country": "Bangunan Baru Pusat Pelancongan Malaysia, Jalan Cangkat Perak, Kampung Hujung Pasir, Bukit Bintang, Kuala Lumpur, 50250, Malaysia",
+"summary_polyline": "cigRyuwkRb@DFmAs@wCc@m@[JPiCqA}@\\k@{BwAi@}AgAe@{CM}BuCd@eDC{Bh@a@vFJN`B`Ax@hFLhBs@dByDwAcCTiIgAcE_@KeAd@{AbCeBxEQdCzCjDl@rC`Bj@`@EpByD@c@uA}BTsIu@yAGsAg@SmAh@wAbC_BlEWjCxClDl@zCpBd@^OjBmEuAyBRsIeAaEe@IcAh@yAdCgBxEQfCzCfDd@rCh@XxAN`CkEwAeCPqIq@}AG{Ai@UqAh@sDlIQ~CtCbD`@bCb@\\dBTxB{DCo@mAiBRsIsAkEaBj@sAbCgBvEMlCrC|Ch@vCz@^pABpB}DoAiCN_JsAgE_Bh@yAjCcBzEErCjCnCr@zC~Af@b@KpBqD@e@mAcBJeJqAmE{Al@yAbCaBjEQpCzA~Bz@d@`@hCh@`@`BP`CoE{AsCP_Ic@oA{C|BmBN_ArBKvCrC`Db@lCjAz@kDJIjGcAz@lBjB@rBt@fAxEzD",
+"average_heartrate": 147.0,
+"average_speed": 2.8411296321512607,
+"source": "Garmin Connect",
+"streak": 5
 }
 ]
